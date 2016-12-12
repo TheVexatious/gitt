@@ -12,7 +12,7 @@ gitt is a very basic CLI that makes using git easier,
 ### current available commands:
 
 
-* >`gitt push [branch]`: pushes the code to the origin specified, if not specified it will be set to master ondefault
+* >`gitt push [branch]`: pushes the code to the origin specified, if not specified it will be set to master on default
 >
 > cmd command: `git push origin [branch] --force` || `git push origin master --force`
 
