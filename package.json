@@ -1,0 +1,30 @@
+{
+    "name": "gitt",
+    "version": "1.0.0",
+    "description": "A CLI that makes using git easier",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheVexatious/gitt.git"
+    },
+    "keywords": [
+        "git",
+        "cli"
+    ],
+    "author": "'Vex' <'zaidhanhussain@gmail.com'>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/TheVexatious/gitt/issues"
+    },
+    "bin": {
+        "gitt": "./index.js"
+    },
+    "homepage": "https://github.com/TheVexatious/gitt#readme",
+    "dependencies": {
+        "minimist": "^1.2.0",
+        "shelljs": "^0.7.5"
+    }
+}
